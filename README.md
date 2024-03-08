@@ -1,9 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # InteractiveDocsApp-Reactjs
+
+Commands for running it on your local machine -
+Step 1 -> Clone it on your local machine 
+Step 2 -> Go inside cloned folder and open terminal on that location
+Step 3 -> Run the following commands in your terminal -
+    Command 1 -> npm install
+    Command 2 -> npm run dev
