@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    to left bottom,
+    rgba(74, 74, 74, 0.279),
+    rgba(63, 62, 62, 0.289)
+  );
+  margin: auto;
+  box-sizing: border-box;
+  backdrop-filter: blur(0.7rem);
+}
+::selection {
+  color: navajowhite;
+}
